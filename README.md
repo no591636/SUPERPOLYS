@@ -1,2 +1,2 @@
 # Supplementary materials
-Superpolys of Acorn and Kreyvium
+Superpolys of Acorn, Kreyvium and Keccak
